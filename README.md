@@ -50,3 +50,11 @@ If you’d like to contribute:
 2. Create a feature branch (feature/new-beat-algorithm)
 3. Commit your changes
 4. Open a Pull Request
+
+## License
+This project is licensed under the GNU GPL License — see the LICENSE
+
+## Credits
+Developed by **[Name]**
+Built with love using Godot Engine and C#
+Sound analysis inspired by open-source rhythm detection projects.
