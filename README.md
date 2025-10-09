@@ -52,7 +52,7 @@ If you’d like to contribute:
 4. Open a Pull Request
 
 ## License
-This project is licensed under the GNU GPL License — see the LICENSE
+This project is licensed under the GNU GPL License - see the LICENSE
 
 ## Credits
 Developed by **[Name]**
